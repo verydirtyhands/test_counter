@@ -15,6 +15,7 @@
 `plotly==5.15.0`
 `prophet==1.1.4`
 `statsmodels==0.13.5`
+`catboost==1.2`
 `sktime==0.21.0`
 `ydata-profiling==4.1.2`
 
