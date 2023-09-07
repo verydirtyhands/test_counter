@@ -41,7 +41,7 @@
 ### папка test_task :
 
 - <a href='https://nbviewer.org/github/verydirtyhands/test_counter/blob/main/test_task/t1f.ipynb'>t1f.ipynb</a> - основной файл с выполненым тестовым заданием (ссылка на nbviewer)
-- <a href='https://github.com/verydirtyhands/test_counter/test_task/performance_data.csv'>performance_data.csv</a> - данные предоставленные для выполнения задания
+- <a href='https://github.com/verydirtyhands/test_counter/blob/464352278323b7883e9ec8e5e27fe86f76df7fe5/test_task/performance_data.csv'>performance_data.csv</a> - данные предоставленные для выполнения задания
 - <a>model_targ0.h5 - итоговая сохранённая модель (RNN)
 
 ### остальные файлы в репозитории :
