@@ -29,6 +29,7 @@
 `catboost==1.2`
 `sktime==0.21.0`
 `ydata-profiling==4.1.2`
+`shap==0.42.0`
 
 ## Описание данных:
 
