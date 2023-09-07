@@ -34,7 +34,23 @@
 ## Описание данных:
 
 - counter_timestamp — время наблюдения с интервалом в 15 минут (с 2022-02-21 по 2022-03-23);
-- counter_data — значения счётчика 
+- counter_data — значения счётчика
+
+## Описание итоговых файлов и папок:
+
+### папка test_task :
+
+- <a href='https://nbviewer.org/github/verydirtyhands/test_counter/blob/main/test_task/t1f.ipynb'>t1f.ipynb</a> - основной файл с выполненым тестовым заданием (ссылка на nbviewer)
+- <a href='https://github.com/verydirtyhands/test_counter/test_task/performance_data.csv'>performance_data.csv</a> - данные предоставленные для выполнения задания
+- <a>model_targ0.h5 - итоговая сохранённая модель (RNN)
+
+### остальные файлы в репозитории :
+
+- README.md - общее описание работы
+- <a href='https://github.com/verydirtyhands/test_counter/docker.md'>docker.md</a> - инструкция по запуску проекта через docker
+- <a href='https://github.com/verydirtyhands/test_counter/requirements.txt'>requirements.txt</a> - файл с описанием зависимостей
+- docker-compose.yml и Dockerfile - инструкции по запуску окружения для Docker
+- .gitignore - список с файлами не вошедшими в репозиторий
 
 ## Краткое описание проведённой работы:
 <i> 
