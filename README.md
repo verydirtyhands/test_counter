@@ -46,9 +46,9 @@
 
 ### остальные файлы в репозитории :
 
+- <a href='https://github.com/verydirtyhands/test_counter/blob/82f7b2733e62cbe0778bd4c08c1eeaf776feeddf/docker.md'>docker.md</a> - инструкция по запуску проекта через docker
+- <a href='https://github.com/verydirtyhands/test_counter/blob/82f7b2733e62cbe0778bd4c08c1eeaf776feeddf/requirements.txt'>requirements.txt</a> - файл с описанием зависимостей
 - README.md - общее описание работы
-- <a href='https://github.com/verydirtyhands/test_counter/docker.md'>docker.md</a> - инструкция по запуску проекта через docker
-- <a href='https://github.com/verydirtyhands/test_counter/requirements.txt'>requirements.txt</a> - файл с описанием зависимостей
 - docker-compose.yml и Dockerfile - инструкции по запуску окружения для Docker
 - .gitignore - список с файлами не вошедшими в репозиторий
 
