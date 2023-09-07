@@ -1,0 +1,10 @@
+version: '3.3'
+services:
+  jupyter:
+    build: 
+      context: .
+      dockerfile: Dockerfile 
+    volumes:
+      - ./test_task:/home/jovyan/test_task
+    ports:
+      - "8888:8888"

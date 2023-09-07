@@ -1,0 +1,14 @@
+#Pandas==1.5.3
+#sklearn==1.2.2
+#seaborn==0.12.2
+#matplotlib==3.6.3
+keras==2.12
+tensorflow==2.12
+#numpy==1.23.5
+plotly==5.15.0
+prophet==1.1.4
+statsmodels==0.13.5
+catboost==1.2
+sktime==0.21.0
+ydata-profiling==4.1.2
+shap==0.40.0
