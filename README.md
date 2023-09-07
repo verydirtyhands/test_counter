@@ -57,4 +57,4 @@
 
 ---
 
-#### Если проект не открывается или вы хотите посмотреть со всеми интерактивными ячейками(plotly,ydata-profiling), его можно открыть по ссылке: <a href='https://nbviewer.org/github/verydirtyhands/test_counter/blob/main/t1f.ipynb'>Модель для прогнозирование показателей счётчика</a>
+#### Если проект не открывается или вы хотите посмотреть со всеми интерактивными ячейками(plotly,ydata-profiling), его можно открыть по ссылке: <a href='https://nbviewer.org/github/verydirtyhands/test_counter/blob/main/test_task/t1f.ipynb'>Модель для прогнозирование показателей счётчика</a>
